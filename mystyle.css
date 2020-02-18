@@ -4,6 +4,9 @@ body{
 h1{
 	color: #696969; /*Dim grey*/
 }
+h2{
+	color: #D3D3D3; /*Light grey*/
+}
 p{
 	color: #DCDCDC; /*Gainsboro*/
 }
