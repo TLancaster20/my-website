@@ -48,7 +48,7 @@ li a:visited{
 }
 
 .active{
-	background-color: #B22222;
+	background-color: #B22222; /*Fire brick*/
 }
 
 a:link{
