@@ -1,15 +1,19 @@
 body{
 	background-color: #00008B; /* Dark blue*/
 }
+
 h1{
 	color: #696969; /*Dim grey*/
 }
+
 h2{
 	color: #D3D3D3; /*Light grey*/
 }
+
 p{
 	color: #DCDCDC; /*Gainsboro*/
 }
+
 ul{
 	list-style-type: none;
 	margin: 0;
@@ -21,9 +25,11 @@ ul{
 	top:0;
 	width:100%;
 }
+
 li{
 	float: left;
 }
+
 li a{
 	display: block;
 	color: white;
@@ -31,22 +37,32 @@ li a{
 	padding: 14px 16px;
 	text-decoration: none;
 }
+
 li a:hover{
 	background-color: #DCDCDC;
 	color: black;
 }
+
+li a:visited{
+	color: white;
+}
+
 .active{
 	background-color: #B22222;
 }
+
 a:link{
 	color: #00FFFF; /*aqua*/
 }
+
 a:visited{
 	color:#7FFF00; /*chartreuse*/
 }
+
 a:hover{
 	color:#00BFFF; /*deep sky blue*/
 }
+
 a:active{
 	color:#F08080; /*coral*/
 }
