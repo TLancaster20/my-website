@@ -38,9 +38,15 @@ li a:hover{
 .active{
 	background-color: #B22222;
 }
-a{
+a:link{
 	color: #00FFFF; /*aqua*/
 }
 a:visited{
-	color:#7FFF00;
+	color:#7FFF00; /*chartreuse*/
+}
+a:hover{
+	color:#00BFFF; /*deep sky blue*/
+}
+a:active{
+	color:#F08080; /*coral*/
 }
