@@ -38,3 +38,6 @@ li a:hover{
 .active{
 	background-color: #B22222;
 }
+a{
+	color: #00FFFF; /*aqua*/
+}
