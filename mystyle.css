@@ -47,6 +47,10 @@ li a:visited{
 	color: white;
 }
 
+.menu{
+	color:white;
+}
+
 .active{
 	background-color: #B22222; /*Fire brick*/
 }
